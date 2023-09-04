@@ -16,14 +16,7 @@ import Swal from 'sweetalert2';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCNzRdlcfQeoN8a7L0jA04zhDamdpwyyJI",
-  authDomain: "learnfirebase-f2755.firebaseapp.com",
-  databaseURL: "https://learnfirebase-f2755-default-rtdb.asia-southeast1.firebasedatabase.app/",
-  projectId: "learnfirebase-f2755",
-  storageBucket: "learnfirebase-f2755.appspot.com",
-  messagingSenderId: "994018527725",
-  appId: "1:994018527725:web:d6978ce0e350bd778effe4",
-  measurementId: "G-WBPJCQ3BK5"
+//  USE YOUR CONFIG
 };
 
 // Initialize Firebase
